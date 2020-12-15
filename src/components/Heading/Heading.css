@@ -1,0 +1,9 @@
+.Heading {
+    margin: 0 auto;
+    margin-bottom: 40px;
+    color: #78788c;
+}
+
+.Heading:not(:first-of-type) {
+    margin-top: 25px;
+}
